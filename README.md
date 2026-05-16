@@ -5,6 +5,8 @@
 OSのネイティブフォントを自動認識する日本語対応の設計でありながら、出題されるワードはすべて恐怖のジェイソン（Friday the 13th）にちなんだカルト的な英語フレーズです。
 
 ---
+<img width="1282" height="997" alt="スクリーンショット 2026-05-16 131834" src="https://github.com/user-attachments/assets/9331aa88-088a-4bcf-81ce-b7e9aa39df6c" />
+
 
 ## 🎮 機能特徴
 
@@ -55,4 +57,4 @@ View (レンダリング): 更新された状態を元に、宣言的UIとして
 
 📄 ライセンス
 This project is licensed under the MIT License - see the LICENSE file for details.
-<img width="1282" height="997" alt="スクリーンショット 2026-05-16 131834" src="https://github.com/user-attachments/assets/6fa6f73b-5e2d-466d-865f-52340bfe5e0f" />
+
